@@ -43,9 +43,9 @@ The wizard contains three main steps:
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+https://github.com/anucodeverse/Registration-wizard
 
-# HOW tO Run 
+## HOW tO Run
 
 Go into the project folder:
 
@@ -167,6 +167,6 @@ Add unit tests
 Add field-level icons
 Add better accessibility support
 Store successful submissions in a backend database
-Author
+Author:Ananthalakshmi
 
 Developed as part of the Registration Wizard sprint project.
